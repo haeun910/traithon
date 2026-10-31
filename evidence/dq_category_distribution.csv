@@ -1,0 +1,9 @@
+﻿dataset,dataset_snapshot_id,slice,newsCategory,count
+clickbait,DS-CLICKBAIT-01,overall,사회,7477
+clickbait,DS-CLICKBAIT-01,overall,세계,5972
+clickbait,DS-CLICKBAIT-01,overall,경제,5227
+clickbait,DS-CLICKBAIT-01,overall,IT&과학,5137
+clickbait,DS-CLICKBAIT-01,overall,정치,4950
+clickbait,DS-CLICKBAIT-01,overall,연예,4660
+clickbait,DS-CLICKBAIT-01,overall,생활&문화,3583
+clickbait,DS-CLICKBAIT-01,topic=Politics,정치,4950
