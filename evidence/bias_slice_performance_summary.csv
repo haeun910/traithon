@@ -1,0 +1,5 @@
+﻿impact_id,slice,n_samples,risk_signal,risk_value,threshold,notes,source_file
+IMPACT-001,IDDS_top_quantile(or IDDS>threshold),500,idds_over_threshold_rate,0.216,0.3,공허성(IDDS) 임계 초과 비율(트리거 신호).,evidence/impact1_idds_evidence.csv
+IMPACT-002,title_body_mismatch_top,500,mismatch_slice_rate,0.826,1.0,불일치 상위 슬라이스(플래그) 비율(트리거 신호).,evidence/impact2_mismatch_evidence.csv
+IMPACT-003,topic=Politics,500,politics_clickbait_ratio (and diff_from_overall),1.0,,"정치 슬라이스 클릭베이트 비율=1.0, 전체 대비 차이=0.0.",evidence/impact3_trigger_evidence.csv; evidence/dq_category_distribution.csv
+IMPACT-004,harmful_expression_high (ratio>policy_threshold),500,high_risk_flag_rate,0.104,0.045455,유해표현 비율 임계 초과(고위험 플래그) 비율(트리거 신호).,evidence/impact4_harmful_expression_trigger_evidence.csv; evidence/dq_metrics_summary_harmful.csv; evidence/dq_label_distribution_harmful.csv

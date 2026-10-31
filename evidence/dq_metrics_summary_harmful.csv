@@ -1,0 +1,2 @@
+﻿dataset_snapshot_id,slice,n_raw,n_after_dedup,dedup_removed,completeness_sentence_pct,privacy_email_matches,privacy_phone_matches,representativeness_top_label,representativeness_top_label_positive_rate,label_out_of_range_count,normal_conflict_count,label_integrity_IRR,completeness_fmt,privacy_fmt,provenance_fmt,representativeness_fmt
+DS-HARMFUL-EXPR-01,overall,200000,199983,17,99.9995,0,8,정상,0.500043,0,0,IRR not computed (no relabel sample),sentence=99.9995%,email:0; phone:8,raw=200000 → dedup=199983 (dedup −17),top_label=정상 (0.500043)

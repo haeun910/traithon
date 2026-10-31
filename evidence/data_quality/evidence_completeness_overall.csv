@@ -1,0 +1,2 @@
+﻿total_records,title_filled,body_filled,title_completeness_pct,body_completeness_pct,rule
+73344,73344,73344,100.0,100.0,non-null AND non-blank after strip()

@@ -1,0 +1,2 @@
+﻿scanned_records,pii_hits_records,rule
+73344,12,regex scan (phone/email/rrn) over title+body
